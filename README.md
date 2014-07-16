@@ -5,3 +5,7 @@ Terence Lee, an esteemed Senior Member of the Technical Staff, Ruby Task Force L
 He wants a small sinatra application with a catchy name and an email sign up. This application must be on Heroku (obviously) within the hour to qualify. The email sign up should be front and center! To prove your technical chops, the email signup should save every email that comes through in a database.
 
 Good luck! This could be it!
+
+## Suck up to Terence
+
+If you finish with the first task, provide a way for Terence to view the emails in the database. He's not very good at Ruby and databases.

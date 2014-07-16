@@ -8,4 +8,4 @@ Good luck! This could be it!
 
 ## Suck up to Terence
 
-If you finish with the first task, provide a way for Terence to view the emails in the database. He's not very good at Ruby.
+If you finish with the first task, provide a way for Terence to view the emails in the database. He's not very good at Ruby; no one actually uses bundler.
